@@ -1,1 +1,1 @@
-alias nano='nano --mouse --smooth --fill --tabsize=4 --tabstospaces --const --cut'
+alias nano='nano --mouse --smooth --fill=-4 --tabsize=4 --tabstospaces --const --cut'
